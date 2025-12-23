@@ -9,9 +9,9 @@ if len(sys.argv) == 3:
     print("User provided input values:")
 else:
     script_name = sys.argv[0]
-    empid = "E001"
-    name = "Deepa"
-    salary = "50000"
+    empid = "101"
+    name = "yash"
+    salary = "10000"
     year_of_experience = "5"
     print("No input given using default values:")
 
