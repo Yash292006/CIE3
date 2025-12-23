@@ -1,6 +1,6 @@
 import sys
 
-if len(sys.argv) == 3:
+if len(sys.argv) == 5:
     script_name = sys.argv[0]
     name = sys.argv[1]
     empid = sys.argv[2]
